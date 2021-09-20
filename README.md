@@ -1,0 +1,2 @@
+# Client-Server-protocol
+A client-server application, can be simplified to describe a model wherein a program (the server) receives and handles requests of services done by another program (the client). The server awaits requests done by the client program and begins working on a request as soon as it is received. Co-routines are widely used in the implementation of the protocol to transfer control.
