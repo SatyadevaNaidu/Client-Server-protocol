@@ -1,3 +1,10 @@
+Guide to use this client-server application
+
+->Steps to run the application of client-server:
+  1) Then run server_main.py file.
+  2) Next run the client.py file in other terminal for processing the requests required for the client.
+  3) If you are first time running this application register or else login directly.  
+
 THESE ARE THE COMMANDS THAT CAN BE REQUESTED BY THE CLIENT TO THE SERVER:
 
 1.change_folder <name>:
