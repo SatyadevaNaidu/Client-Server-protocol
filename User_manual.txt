@@ -1,0 +1,23 @@
+Guide to use this client-server application
+
+->Steps to run the application of client-server:
+  1) Extract the Zipfile.
+  2) Then run server_main.py file.
+  3) Next run the client.py file in other terminal for processing the requests required for the client.
+  4) if you are first time running this application register else login directly.
+
+Files included in the zipfile:
+
+1. server_main.py
+2. server.py
+3. server_services.py
+4. client.py
+5. commands.txt
+6. credentials.txt
+7. loginlog.txt
+8. User_manual.txt
+9. Testing.py
+10.Test_report.pdf
+
+** Enter the command <commands> to know the list of commands the server can compute.
+
