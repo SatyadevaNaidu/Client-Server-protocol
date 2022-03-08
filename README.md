@@ -5,6 +5,10 @@ Guide to use this client-server application
   2) Next run the client.py file in other terminal for processing the requests required for the client.
   3) If you are first time running this application register, else you can login directly.  
 
+->Steps to run the application of client-server for New(optimized):
+  1) First run server.py file.
+  2) Next run the client.py file in other terminal for processing the requests required for the user. 
+
 THESE ARE THE COMMANDS THAT CAN BE REQUESTED BY THE CLIENT TO THE SERVER:
 
 1. change_folder <name>:
